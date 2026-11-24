@@ -26,7 +26,7 @@
 }
 
 .hero-section{
-  background-image: url(/images/hotel.b7nrC9SCTSDduwRoG2jrzAHaE8);
+  background-image: url(/images/hotel.jpg);
   background-size: cover;
   background-position: center;
   height: 400px;
@@ -321,8 +321,11 @@ font-size: 40px;
     font-size: larger;
     
 }
+.signedup a{
+    text-decoration: none;
+}
 .login-page{
-      background:linear-gradient(135deg, #655e34, #c1c2a1cc);
+      background:linear-gradient(135deg, #fcdc27, #d1d62ecc);
     border-radius: 8px;
     display: flex;
     justify-content: center;
@@ -391,7 +394,7 @@ font-size: 40px;
 
 body {
     font-family: 'Poppins', Arial, sans-serif;
-    background: #f8f9f5;
+    /* background: #f8f9f5; */
     color: #333;
     line-height: 1.6;
 }
@@ -403,7 +406,7 @@ body {
         rgba(0, 0, 0, 0.55),
         rgba(0, 0, 0, 0.55)
     ),
-    url("/images/menu background.jpg");
+    url(/images/rice.jpg);
 
     background-size: cover;
     background-position: center;
